@@ -22,10 +22,39 @@ Currently, the most popular Leakbreak apps are AppleGPT, Safari 3DX, and Apple A
 
 ## Safari 3DX
 
-Safari 3DX is set to revolutionize the future of the internet by transitioning from 2D to 3D, decentralized experiences. Users can explore 3D websites known as Metaspaces that mimic the real physical world instead of browsing traditional 2D sites. Powered by AI, Metaspaces handle tasks for you, eliminating the need to browse page by page. With Safari 3DX, users can explore metaZ domains (e.g., something.z) and enjoy an immersive and intuitive internet experience like never before.
+Safari 3DX is changing the internet by moving from 2D to 3D, decentralized experiences. Instead of browsing flat 2D websites, users can explore 3D sites called Metaspaces that feel like the real world. These Metaspaces, powered by AI, can perform tasks for you, so you don’t need to click through pages. With Safari 3DX, users can visit metaZ domains (e.g., something.z) and enjoy a more immersive and intuitive internet experience than ever before.
 
+<div align="center">
 
+![image](https://github.com/user-attachments/assets/17c41ac6-46ba-4e42-86c1-f49d8abab007)
 
+</div>
+
+<hr>
+
+## AppleGPT
+
+AppleGPT can understand and generate human-like text based on what you type. Users can have natural, conversational interactions with AppleGPT, making it useful for many things like answering questions, giving recommendations, helping with writing, and more. Its ability to understand context and give clear, relevant responses makes it a powerful tool for both personal and professional use.
+
+<div align="center">
+
+![image](https://github.com/user-attachments/assets/6b998e3e-14ec-4e76-9930-30c4b04c1791)
+
+</div>
+
+<hr>
+
+## Apple AI Search
+
+Apple AI Search is a new kind of search engine that uses advanced AI to suggest searches based on what users are actually interested in. Unlike traditional search engines, it doesn’t rely on factors like backlinks, SEO practices, or user behavior. Instead, it focuses on understanding what users really want, providing search results that match their true needs and preferences.
+
+<div align="center">
+
+![image](https://github.com/user-attachments/assets/f0b90b94-c4df-4958-bd60-7f8434f0da12)
+
+</div>
+
+<hr>
 
 
 
